@@ -1,0 +1,21 @@
+h2{
+  text-align: center;
+}
+.jumbotron {
+  background-image: url(digital-workflow-and-asset-management-03.jpg);
+  background-size: cover;
+  max-width: auto;
+  font-family: 'Anton', sans-serif;
+  color: #007bff;
+}
+.container-fluid{
+  font-family: 'Anton', sans-serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+h3 {
+  font-family: 'Anton', sans-serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.img-fluid {
+  height: 520px;
+}
